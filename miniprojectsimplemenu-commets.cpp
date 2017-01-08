@@ -185,7 +185,7 @@ ac.sendGoal(goal); //The action client is sending the goal to the server.
   ac.waitForResult();
 
 //The following if-esle statement will compare the coordinates of the goal with the current location of the robot.
-//The user will be notified on whether the goal was reached ot not.
+//The user will be notified on whether the goal was reached or not.
   if(ac.getState() == actionlib::SimpleClientGoalState::SUCCEEDED)
     ROS_INFO("The target has been reached.");
 		if(inputInt == 4){
