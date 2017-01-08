@@ -94,7 +94,7 @@ on the left from the menu. If you use "cout" instead, they will be on the right 
   std::cout << "<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>"<<std::endl<<std::endl;
   std::cout << "Press 1 and ENTER to send the robot to room 1."<<std::endl<<std::endl;
   std::cout << "Press 2 and ENTER to send the robot to room 2."<<std::endl<<std::endl;
-  std::cout << "Press 3 and ENTER to send the robot to room 3.""<<std::endl<<std::endl;
+  std::cout << "Press 3 and ENTER to send the robot to room 3."<<std::endl<<std::endl;
   std::cout << "Press 4 and ENTER to go to to the charging point."<<std::endl<<std::endl;
   std::cout << "Press 5 and ENTER for manual control of the robot."<<std::endl<<std::endl;
   std::cout << "Press 6 and ENTER to shut down this program."<<std::endl<<std::endl;
